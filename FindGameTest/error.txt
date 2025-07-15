@@ -1,0 +1,40 @@
+Error fetching https://appmagic.rocks/publisher/river-game-hk-limited/1_Green%20Mushroom. Retrying...3
+Error fetching https://appmagic.rocks/publisher/river-game-hk-limited/1_Green%20Mushroom. Retrying...2
+Error fetching https://appmagic.rocks/publisher/river-game-hk-limited/1_Green%20Mushroom. Retrying...1
+Error fetching https://appmagic.rocks/publisher/river-game-hk-limited/1_Green%20Mushroom with Selenium after retries: Message: unknown error: net::ERR_TUNNEL_CONNECTION_FAILED
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76B2280D5+2992373]
+	(No symbol) [0x00007FF76AEBBFD0]
+	(No symbol) [0x00007FF76AD5590A]
+	(No symbol) [0x00007FF76AD53061]
+	(No symbol) [0x00007FF76AD43BD9]
+	(No symbol) [0x00007FF76AD4592F]
+	(No symbol) [0x00007FF76AD43E9F]
+	(No symbol) [0x00007FF76AD4371D]
+	(No symbol) [0x00007FF76AD4363A]
+	(No symbol) [0x00007FF76AD41251]
+	(No symbol) [0x00007FF76AD41B1C]
+	(No symbol) [0x00007FF76AD589DA]
+	(No symbol) [0x00007FF76ADF038E]
+	(No symbol) [0x00007FF76ADCF36A]
+	(No symbol) [0x00007FF76ADEF584]
+	(No symbol) [0x00007FF76ADCF113]
+	(No symbol) [0x00007FF76AD9A918]
+	(No symbol) [0x00007FF76AD9BA81]
+	GetHandleVerifier [0x00007FF76B286A2D+3379789]
+	GetHandleVerifier [0x00007FF76B29C32D+3468109]
+	GetHandleVerifier [0x00007FF76B290043+3418211]
+	GetHandleVerifier [0x00007FF76B01C78B+847787]
+	(No symbol) [0x00007FF76AEC757F]
+	(No symbol) [0x00007FF76AEC2FC4]
+	(No symbol) [0x00007FF76AEC315D]
+	(No symbol) [0x00007FF76AEB2979]
+	BaseThreadInitThunk [0x00007FFF219B259D+29]
+	RtlUserThreadStart [0x00007FFF2262AF38+40]
+
+Error fetching https://appmagic.rocks/publisher/game-lab-limited/1_Game%20Lab%20Limited. Retrying...3
+Error fetching https://appmagic.rocks/publisher/jiaze/1_Jiaze. Retrying...3
+Error fetching https://appmagic.rocks/publisher/funfly-pte-ltd-/1_SILKWORLD%20GAME%20LIMITED. Retrying...3
+Error fetching https://appmagic.rocks/publisher/florere-game/1_Florere%20Game. Retrying...3
+Error fetching https://appmagic.rocks/publisher/daaa/1_DAAA. Retrying...3

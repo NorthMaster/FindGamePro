@@ -1,0 +1,2 @@
+Error fetching https://appmagic.rocks/publisher/river-game-hk-limited/1_Green%20Mushroom. Retrying...3
+Error fetching https://appmagic.rocks/publisher/river-game-hk-limited/1_Green%20Mushroom. Retrying...2

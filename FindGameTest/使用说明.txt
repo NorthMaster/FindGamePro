@@ -1,0 +1,3 @@
+1. 安装和chrome浏览器相对应的chromedriver版本，如我的chrome浏览器是129版本的，需要下载对应的129的driver，网址： https://www.chromedriverdownload.com/en/downloads/chromedriver-129-download
+2. 在urls中设置chromedriver的路径；
+3. 设置开始日期，开始日期之后找到的数据，都会显示到新生成的网页中；
