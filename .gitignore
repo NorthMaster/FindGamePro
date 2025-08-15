@@ -1,6 +1,2 @@
-﻿FindGameTest/.idea
-FindGameTest/.venv
-FindGameTest/venv
-FindGameTest/__pycache__
-FindGameTest/NewCrawler/__pycache__
-FindGameTest/NewCrawler/venv
+﻿NewCrawler/__pycache__
+NewCrawler/venv
